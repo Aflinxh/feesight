@@ -4,3 +4,6 @@
 [submodule "feesight-cloud"]
 	path = feesight-cloud
 	url = https://github.com/Aflinxh/feesight-cloud.git
+[submodule "feesight-mobile"]
+	path = feesight-mobile
+	url = https://github.com/Aflinxh/feesight-mobile.git
