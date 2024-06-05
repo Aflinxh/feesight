@@ -1,0 +1,3 @@
+[submodule "feesight-machine-learning"]
+	path = feesight-machine-learning
+	url = https://github.com/Aflinxh/feesight-machine-learning.git
