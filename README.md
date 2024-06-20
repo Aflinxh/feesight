@@ -5,7 +5,7 @@ Feesight is a revolutionary app designed to empower users in managing their fina
 > "We firmly believe that everyone should have their own personal financial consultant" - Feesight Team
 
 ## Download Our App
-[Download Feesight App](https://storage.googleapis.com/feesight/app-debug.apk)
+[Download Feesight App](https://storage.googleapis.com/feesight/feesight.apk)
 
 In today's fast-paced world, managing personal finances is a challenge for many, especially among Gen-Z and millennials. With consumerism on the rise, driven by social media and e-commerce, many individuals find themselves tempted to spend on entertainment, dining, and other non-essential items. This often leads to financial stress, uncertainty, and unexpected expenses, particularly when incomes are just enough to meet basic needs.
 
