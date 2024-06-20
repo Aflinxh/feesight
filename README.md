@@ -5,7 +5,7 @@ Feesight is a revolutionary app designed to empower users in managing their fina
 > "We firmly believe that everyone should have their own personal financial consultant" - Feesight Team
 
 ## Download Our App
-[Download Feesight App](https://storage.googleapis.com/feesight/feesight.apk)
+[![Button Icon]][Link] 
 
 - **Have you ever felt unsure about your financial situation?** Are you hesitant about your current economic condition? Often, you try to gather all transactions for a month, recording all your income and expenses. It's time-consuming and boring.
 - Also, if you've planned your finances for the next few months with estimated income and expenses, you might feel confident in your calculations. **But unexpected expenses often arise**. You find yourself wanting to buy something for urgent needs or just your favorite food. This can disrupt your financial decisions and ruin all your plans. Or perhaps you prefer not to spend a penny within a certain period. _"Don't be too hard on yourself, but also not too careless."_
@@ -73,3 +73,6 @@ Consider a typical scenario: You receive your salary on the first of the month, 
 
 ---
 **Track🔎, Analyze🤔, Decide💡 - Feesight Team**
+
+[Button Icon]: https://img.shields.io/badge/Installation-EF2D5E?style=for-the-badge&logoColor=white&logo=DocuSign
+[Link]: https://storage.googleapis.com/feesight/feesight.apk
