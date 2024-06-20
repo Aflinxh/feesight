@@ -7,8 +7,8 @@ Feesight is a revolutionary app designed to empower users in managing their fina
 ## Download Our App
 [Download Feesight App](https://storage.googleapis.com/feesight/feesight.apk)
 
-- Have you ever felt unsure about your financial situation? Are you hesitant about your current economic condition? Often, you try to gather all transactions for a month, recording all your income and expenses. It's time-consuming and boring.
-- Also, if you've planned your finances for the next few months with estimated income and expenses, you might feel confident in your calculations. But unexpected expenses often arise. You find yourself wanting to buy something for urgent needs or just your favorite food. This can disrupt your financial decisions and ruin all your plans. Or perhaps you prefer not to spend a penny within a certain period. Don't be too hard on yourself, but also not too careless.
+- **Have you ever felt unsure about your financial situation?** Are you hesitant about your current economic condition? Often, you try to gather all transactions for a month, recording all your income and expenses. It's time-consuming and boring.
+- Also, if you've planned your finances for the next few months with estimated income and expenses, you might feel confident in your calculations. But **unexpected expenses often arise**. You find yourself wanting to buy something for urgent needs or just your favorite food. This can disrupt your financial decisions and ruin all your plans. Or perhaps you prefer not to spend a penny within a certain period. _"Don't be too hard on yourself, but also not too careless."_
 
 ## Why Feesight?
 In today's fast-paced world, managing personal finances is a challenge for many, especially among Gen-Z and millennials. With consumerism on the rise, driven by social media and e-commerce, many individuals find themselves tempted to spend on entertainment, dining, and other non-essential items. This often leads to financial stress, uncertainty, and unexpected expenses, particularly when incomes are just enough to meet basic needs.
