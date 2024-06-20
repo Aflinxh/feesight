@@ -1,5 +1,5 @@
 # Feesight - Financial Navigator & Advisory
-![Feesight-Mockup](https://github.com/Aflinxh/feesight/assets/106858846/d67b66ed-758b-49aa-a345-3196a0de3aed)
+![Feesight-Mockup](https://github.com/Aflinxh/feesight/assets/106858846/2ca02c1b-03a1-40f3-991d-2c02ff029db8)
 Feesight is a revolutionary app designed to empower users in managing their finances. It helps to project future expenses, optimizes spending, and provides personalized investment advice in cryptocurrency and stocks. Feesight acts as your personal financial consultant, guiding you towards financial stability and empowerment.
 
 > "We firmly believe that everyone should have their own personal financial consultant" - Feesight Team
@@ -66,4 +66,4 @@ Consider a typical scenario: You receive your salary on the first of the month, 
 - **[App Repositories](https://github.com/Aflinxh/feesight-mobile/tree/fc73503c5801eba8e5096553528e597c8cf970da)**
 
 ---
-**Feesight Team**
+**~Feesight Team**
