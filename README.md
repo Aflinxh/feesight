@@ -13,11 +13,11 @@ Feesight is a revolutionary app designed to empower users in managing their fina
 ## Why Feesight?
 In today's fast-paced world, managing personal finances is a challenge for many, especially among Gen-Z and millennials. With consumerism on the rise, driven by social media and e-commerce, many individuals find themselves tempted to spend on entertainment, dining, and other non-essential items. This often leads to financial stress, uncertainty, and unexpected expenses, particularly when incomes are just enough to meet basic needs.
 
-Traditional financial apps fall short in helping users accurately forecast their future expenses and manage their discretionary income. Feesight is here to fill that gap.
+Traditional financial apps fall short in helping users accurately forecast their future expenses and manage their discretionary income. **Feesight is here to fill that gap.**
 
 Feesight is a groundbreaking mobile app that offers comprehensive financial management tools. It helps you calculate your future expenses, optimize your spending, and receive personalized investment advice in cryptocurrency and stocks. Feesight also forecasts potential investment profits, acting as a personal financial consultant to guide you toward financial stability and empowerment.
 
-Consider a typical scenario: You receive your salary on the first of the month, with several expenses planned throughout the month. If an unexpected need arises, Feesight helps you determine how much you can safely spend without affecting your upcoming financial commitments. By providing accurate financial projections, Feesight ensures you can manage your money wisely and avoid financial pitfalls.
+Consider a typical scenario: You receive your salary on the first of the month, with several expenses planned throughout the month. If an unexpected need arises, **Feesight helps you determine how much you can safely spend without affecting your upcoming financial commitments.** By providing accurate financial projections, Feesight ensures you can manage your money wisely and avoid financial pitfalls.
 
 ## With Feesight, you can:
 - Precisely calculate future expenses
